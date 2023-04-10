@@ -1,0 +1,4 @@
+<ul>    <li class="right-menu"><a href="#">Electronics</a> <ul class="cat-mega-menu"><li class="right-menu cat-mega-title">
+    <a href="#">Section1</a>  <ul> <li><a href="#">Cameras</a></li> <li><a href="#">Computers, Tablets & Laptops</a></li> <li><a href="#">Mobile Phone</a></li> <li><a href="#">Sound & Vision</a></li>  </ul> </li><li class="right-menu cat-mega-title">
+    <a href="#">Section2</a>  <ul> <li><a href="#">Women's</a></li> <li><a href="#">Men's</a></li> <li><a href="#">Kids</a></li>  </ul> </li><li class="right-menu cat-mega-title">
+    <a href="#">Section3</a>  <ul> <li><a href="#">Vegetables</a></li> <li><a href="#">Fish</a></li> <li><a href="#">Drugs</a></li>  </ul> </li> </ul>    </li>         <li class=""><a href="#">Grocery</a> <ul class="cat-mega-menu"> </ul>    </li>     </ul>

@@ -1,0 +1,13 @@
+<?php
+if($page=="create-siteproduct"){
+	$found=include("views/pages/ui/siteproduct/create_siteproduct.php");
+}elseif($page=="edit-siteproduct"){
+	$found=include("views/pages/ui/siteproduct/edit_siteproduct.php");
+}elseif($page=="site_products"){
+	$found=include("views/pages/ui/siteproduct/manage_siteproduct.php");
+}elseif($page=="details-siteproduct"){
+	$found=include("views/pages/ui/siteproduct/details_siteproduct.php");
+}elseif($page=="view-siteproduct"){
+	$found=include("views/pages/ui/siteproduct/view_siteproduct.php");
+}
+?>

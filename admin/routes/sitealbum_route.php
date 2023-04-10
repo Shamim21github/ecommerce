@@ -1,0 +1,13 @@
+<?php
+if($page=="create-sitealbum"){
+	$found=include("views/pages/ui/sitealbum/create_sitealbum.php");
+}elseif($page=="edit-sitealbum"){
+	$found=include("views/pages/ui/sitealbum/edit_sitealbum.php");
+}elseif($page=="site_albums"){
+	$found=include("views/pages/ui/sitealbum/manage_sitealbum.php");
+}elseif($page=="details-sitealbum"){
+	$found=include("views/pages/ui/sitealbum/details_sitealbum.php");
+}elseif($page=="view-sitealbum"){
+	$found=include("views/pages/ui/sitealbum/view_sitealbum.php");
+}
+?>

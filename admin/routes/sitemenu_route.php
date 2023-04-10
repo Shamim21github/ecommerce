@@ -1,0 +1,13 @@
+<?php
+if($page=="create-sitemenu"){
+	$found=include("views/pages/ui/sitemenu/create_sitemenu.php");
+}elseif($page=="edit-sitemenu"){
+	$found=include("views/pages/ui/sitemenu/edit_sitemenu.php");
+}elseif($page=="site_menus"){
+	$found=include("views/pages/ui/sitemenu/manage_sitemenu.php");
+}elseif($page=="details-sitemenu"){
+	$found=include("views/pages/ui/sitemenu/details_sitemenu.php");
+}elseif($page=="view-sitemenu"){
+	$found=include("views/pages/ui/sitemenu/view_sitemenu.php");
+}
+?>
